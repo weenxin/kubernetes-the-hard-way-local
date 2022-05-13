@@ -14,7 +14,7 @@ master0=10.192.219.84
 master1=10.192.219.85
 master2=10.192.219.86
 proxy=10.192.219.87
-password=ASDqwe123
+password=${password}
 POD_CIDR_worker0=10.200.0.0/24
 POD_CIDR_worker1=10.200.1.0/24
 ```
